@@ -1,0 +1,23 @@
+body{
+    background-color: white;
+}
+h1{
+    color:aliceblue;
+    background-color: green;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+h2{
+    color:white;
+    background-color: orange;
+}
+ul{
+    background-color: orange;
+}
+li{
+    font-size: 15px;
+    display: flex;
+    
+}

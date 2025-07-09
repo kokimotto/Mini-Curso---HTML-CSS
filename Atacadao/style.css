@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Ubuntu', sans-serif;
+}
+header ul{
+    background-color: #ff6633;
+    display: flex;
+    gap: 20px;
+    padding: 8px;
+    justify-content: end;
+}
+header li{
+    list-style: none;
+    display: flex;
+}
+header li a{
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+}
+header li a:hover{
+    text-decoration: underline;
+}
+.verde{
+    background-color: #008A28;
+    padding: 16px;
+}
+.Logo{
+    height: 42px;
+    width: 42px;
+}
+.buscar{
+    height: 40px;
+    width: 50px;
+}
+.search{
+    padding: 16px;
+    width: 393px;
+    height: 40px;
+    gap: 0px;
+}
